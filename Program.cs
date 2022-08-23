@@ -12,22 +12,29 @@
             while (true)
             {
                 int guessed_n = Convert.ToInt32(Console.ReadLine());
-                if (Number == guessed_n)
+                if (guessed_n < 1 || guessed_n > 100)
                 {
-                    Guesses++;
-                    Console.WriteLine("Great you guessed the right Number after " + Guesses + " attempts" );
-                    Guessing = false;
+                    Console.WriteLine("Please enter a Number between 1 and 100");
                 }
                 else
                 {
-                    Guesses++;
-                    if (Number > guessed_n)
+                    if (Number == guessed_n)
                     {
-                        Console.WriteLine("The number is bigger");
+                        Guesses++;
+                        Console.WriteLine("Great you guessed the right Number after " + Guesses + " attempts");
+                        Guessing = false;
                     }
                     else
                     {
-                        Console.WriteLine("The Number is smaller");
+                        Guesses++;
+                        if (Number > guessed_n)
+                        {
+                            Console.WriteLine("The number is bigger");
+                        }
+                        else
+                        {
+                            Console.WriteLine("The Number is smaller");
+                        }
                     }
                 }
             }
