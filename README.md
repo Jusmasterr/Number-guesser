@@ -26,10 +26,8 @@ Das Projekt heist Number Guesser. Es soll ein Spiel werden bei dem eine Nummer v
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
+| 1.1  | Projekt geöffnet             |   50      |     richtige Zahl, grösser oder kleiner              |
 | ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
@@ -39,7 +37,7 @@ Das Projekt heist Number Guesser. Es soll ein Spiel werden bei dem eine Nummer v
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
+| 1.A  | 23.08      | Justus          |   Number Guesser       |  10min             |
 | ...  |       |           |              |               |
 
 Total: 
@@ -56,7 +54,7 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 1.A  |   23.08    |  Justus         |   20min            |    25min               |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
@@ -67,7 +65,7 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
+| 1.1  | 23.08      |   funktionstüchtig       | Justus       |
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
@@ -76,7 +74,7 @@ Total:
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
+| I    |  Programm geöffnet            |  richtige zahl       |   Sie haben gewonnen                |     Sie haben gewonnen                 |
 | ...  |              |         |                   |                      |
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
