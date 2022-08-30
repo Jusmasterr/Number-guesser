@@ -75,7 +75,7 @@ Total:
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
 | I    |  Programm geöffnet            |  richtige zahl       |   Sie haben gewonnen                |     Sie haben gewonnen                 |
-| ...  |              |         |                   |                      |
+| II  |       Programm gestartet  |    Zahl über 100 oder unter 1     |Zahl zwischen 1 und 100 eingeben   |   Zahl zwischen 1 und 100 eingeben     |
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
