@@ -48,7 +48,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Da es ein kleines Projekt ist habe ich es nicht in mehrere Teile aufgeteilt. Es sollte eine schnelle Angelegenheit sein.
 
 ## 4 Realisieren
 
@@ -57,7 +57,6 @@ Total:
 | 1.A  |   23.08    |  Justus         |   20min            |    25min               |
 | ...  |       |           |               |                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -75,9 +74,11 @@ Total:
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
 | I    |  Programm geöffnet            |  richtige zahl       |   Sie haben gewonnen                |     Sie haben gewonnen                 |
-| II  |       Programm gestartet  |    Zahl über 100 oder unter 1     |Zahl zwischen 1 und 100 eingeben   |   Zahl zwischen 1 und 100 eingeben     |
+| II   |       Programm gestartet  |    Zahl über 100 oder unter 1     |Zahl zwischen 1 und 100 eingeben   |   Zahl zwischen 1 und 100 eingeben     |
+|      |              |         |                   |                      |
+|      |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+
 
 ## 6 Auswerten
 
