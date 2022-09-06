@@ -18,16 +18,16 @@ Das Projekt heist Number Guesser. Es soll ein Spiel werden bei dem eine Nummer v
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |        Muss     |  Funktionsal    | Ich schreibe den code |
-| ...  |                 |      |                                    |
+| 1    |        Muss     |  Funktionsal    | Ausgabe ob Zahl grösser oder kleiner ist |
+| 2  |       Muss          |     Funktional |       Falls ungültige Zahl eingegeben erneut fragen                             |
             
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Projekt geöffnet             |   50      |     richtige Zahl, grösser oder kleiner              |
-| ...  |              |         |                   |
+| 1.1  | Projekt geöffnet und Zahl eingegeben            |   50      |     richtige Zahl, grösser oder kleiner              |
+| 2.1  |      Projekt geöffnet und falsche Zahl eingegeben        |    0     |   Zahl zwischen 1 und 100 eingeben                |
 
 ### 1.4 Diagramme
 
