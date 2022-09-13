@@ -4,9 +4,8 @@ Gruppe Bilig | Meister
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|23.08.22       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|23.08.22       | 0.0.1   | Hauptprogramm geschrieben |
+|       | 0.1.0    |          Fehlererkennung programmiert                                                    |
 
 ## 1 Informieren
 
@@ -28,6 +27,7 @@ Das Projekt heist Number Guesser. Es soll ein Spiel werden bei dem eine Nummer v
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Projekt geöffnet und Zahl eingegeben            |   50      |     richtige Zahl, grösser oder kleiner              |
 | 2.1  |      Projekt geöffnet und falsche Zahl eingegeben        |    0     |   Zahl zwischen 1 und 100 eingeben                |
+| 2.2  |      Projekt geöffnet und falsche Zahl eingegeben        |    200     |   Zahl zwischen 1 und 100 eingeben                |
 
 ### 1.4 Diagramme
 
@@ -37,14 +37,11 @@ Das Projekt heist Number Guesser. Es soll ein Spiel werden bei dem eine Nummer v
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 23.08      | Justus          |   Number Guesser       |  10min             |
-| ...  |       |           |              |               |
+| 1.A  | 23.08      | Justus          |   Hauptprogramm    |  20min             |
+| 2.A | 30.08      |    Justus       |  Fehlererkennung            |    10min           |
 
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
@@ -55,7 +52,7 @@ Da es ein kleines Projekt ist habe ich es nicht in mehrere Teile aufgeteilt. Es 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |   23.08    |  Justus         |   20min            |    25min               |
-| ...  |       |           |               |                   |
+| 2.A  |   30.08    |  Justus         |    10min           |       20min            |
 
 
 ## 5 Kontrollieren
@@ -65,9 +62,9 @@ Da es ein kleines Projekt ist habe ich es nicht in mehrere Teile aufgeteilt. Es 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  | 23.08      |   funktionstüchtig       | Justus       |
-| ...  |       |          |        |
+| 2.1  |  30.08     |   funktionstüchtig       |   Justus     |
+| 2.2  | 30.08      |   funktionstüchtig       |   Justus     |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ### 5.2 Exploratives Testen
 
