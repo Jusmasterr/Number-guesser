@@ -73,8 +73,7 @@ Da es ein kleines Projekt ist habe ich es nicht in mehrere Teile aufgeteilt. Es 
 | ---- | ------------ | ------- | ----------------- | -------------------- |
 | I    |  Programm geöffnet            |  richtige zahl       |   Sie haben gewonnen                |     Sie haben gewonnen                 |
 | II   |       Programm gestartet  |    Zahl über 100 oder unter 1     |Zahl zwischen 1 und 100 eingeben   |   Zahl zwischen 1 und 100 eingeben     |
-|      |              |         |                   |                      |
-|      |              |         |                   |                      |
+| III     |    Programm gestartet          | Buchstaben        |     Error              |      Error (Programm stürzt ab)                |
 
 
 
