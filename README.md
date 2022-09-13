@@ -6,6 +6,7 @@ Gruppe Bilig | Meister
 | ----- | ------- | ------------------------------------------------------------ |
 |23.08.22       | 0.0.1   | Hauptprogramm geschrieben |
 |30.08.22       | 0.1.0    |          Fehlererkennung programmiert                                                    |
+|13.09.22       | 1.0.0    |          Projekt Abgabe                                               |
 
 ## 1 Informieren
 
