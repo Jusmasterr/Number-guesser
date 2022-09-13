@@ -5,7 +5,7 @@ Gruppe Bilig | Meister
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |23.08.22       | 0.0.1   | Hauptprogramm geschrieben |
-|       | 0.1.0    |          Fehlererkennung programmiert                                                    |
+|30.08.22       | 0.1.0    |          Fehlererkennung programmiert                                                    |
 
 ## 1 Informieren
 
@@ -31,7 +31,8 @@ Das Projekt heist Number Guesser. Es soll ein Spiel werden bei dem eine Nummer v
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![image](https://user-images.githubusercontent.com/111336147/189826432-14c21ddc-b268-470e-a2e1-6802de5af86a.png)
+
 
 ## 2 Planen
 
