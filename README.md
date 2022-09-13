@@ -80,4 +80,4 @@ Da es ein kleines Projekt ist habe ich es nicht in mehrere Teile aufgeteilt. Es 
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/Jusmasterr/Lernbericht-Numberguesser
