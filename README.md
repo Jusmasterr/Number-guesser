@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-Gruppe Bilig | Meister
+Gruppe Billig | Meister
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
